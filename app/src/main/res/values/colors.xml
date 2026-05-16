@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#0B0B0B</color>
+    <color name="card_dark">#1A1A1A</color>
+    <color name="accent_purple">#A855F7</color>
+    <color name="accent_cyan">#00FFFF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#AAAAAA</color>
+</resources>
